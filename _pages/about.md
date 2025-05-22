@@ -43,12 +43,23 @@ Kaiming Wang, Wei Liu, Yuxiang Hong, HM Shakhawat Sohan, Yonggang Tong
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* Awarded Chinese Scholarship Council 
+- *2022.06* Awarded as Merit Member From Xi'an Jiaotong Universitty Summer Camp 
+- *2021.07* Hunan Provincial Government Scholarship for excellent academic performance – Changsha
+ University Of Science And Technology 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 CREATIVE WORKS 
+- * Regulation of Degradation Behavior and Stress Modulation of 3D Printed Magnesium Alloys for
+ Enhanced Bone Regeneration * This research investigates the degradation behavior of 3D-printed magnesium (Mg) alloys under tensile stress and pressure, simulating the conditions of bone implants in the femoral region. When Mg alloys are implanted, they
+ experience mechanical stress from body movements like walking and running. These stresses influence the rate of
+ degradation, which is crucial for ensuring the implant provides adequate support while allowing for proper bone
+ healing. By applying tensile and compressive forces to Mg specimens, this study aims to better understand how
+ mechanical loading impacts the degradation process, helping to optimize Mg alloy implants for improved bone
+ regeneration and long-term performance. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
